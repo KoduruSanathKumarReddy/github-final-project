@@ -1,2 +1,11 @@
-ow that you are equipped with the knowledge and skills to work with GitHub UI and Git CLI, you will use these skills to create an open source project in Git, make changes to that project and make it available to the community. You will fork a GitHub repository, clone that repository to your local system, make changes to the local repository, commit the changes locally, push it back to your GitHub fork, and create a pull request to add your update to the original repository. This final assignment project is split into two parts.
+A calculator that calculates simple interest give principal, annual rate of interest and time period in years.
 
+Input:
+
+  p, principal amount
+  t, time period in years
+  r, annual rate of interest
+  
+Output:
+
+simple interest = p*t*r
